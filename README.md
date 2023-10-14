@@ -23,7 +23,7 @@
   <li>Hibernate</li>
   <li>Swagger para documentação da API</li>
   <li>RestTemplate para integração com serviços externos</li>
-  <li>Banco de Dados Relacional (por exemplo, MySQL, PostgreSQL, etc.)</li>
+  <li>Banco de Dados Relacional MySQL</li>
   <li>API de Consulta de CEP ViaCep</li>
 </ul>
 
